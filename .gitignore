@@ -4,3 +4,4 @@
 *.iml
 migrations/
 venv
+*.sqlite3
